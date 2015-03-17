@@ -1,0 +1,18 @@
+Donor Number1
+American Red Cross
+100.0
+Donor Number2
+Salvation Army
+200.0
+Donor Number3
+Toys for Tots
+300.0
+Donor Number4
+Susan G. Komen
+400.0
+Donor Number5
+Warren Buffet
+500.0
+Donor Number6
+American Red Cross
+600.0
