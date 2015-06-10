@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Mon Feb 23 19:04:39 EST 2015:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-014b-b8e6-58fc-000004e69388 
-on database directory C:\Users\Samuel\Desktop\Initial program (5)\ConnectToADatabase\ConnectToADatabase\DonorDB with class loader sun.misc.Launcher$AppClassLoader@2503dbd3 
+Tue Jun 09 22:55:07 EDT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-014d-db64-8498-000004e4cd38 
+on database directory C:\Users\Samuel\Documents\GitHub\FundraiserProgram\ConnectToADatabase\DonorDB with class loader sun.misc.Launcher$AppClassLoader@2503dbd3 
 Loaded from file:/C:/Users/Samuel/Downloads/glassfish-4.1/glassfish4/javadb/lib/derby.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_25-b18
-user.dir=C:\Users\Samuel\Desktop\Initial program (5)\ConnectToADatabase\ConnectToADatabase
+user.dir=C:\Users\Samuel\Documents\GitHub\FundraiserProgram\ConnectToADatabase
 os.name=Windows 8.1
 os.arch=amd64
 os.version=6.3

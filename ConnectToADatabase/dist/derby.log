@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jun 09 22:59:54 EDT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-014d-db68-e1cd-000004e73230 
+on database directory C:\Users\Samuel\Documents\GitHub\FundraiserProgram\ConnectToADatabase\dist\DonorDB with class loader sun.misc.Launcher$AppClassLoader@7852e922 
+Loaded from file:/C:/Users/Samuel/Documents/GitHub/FundraiserProgram/ConnectToADatabase/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_31-b13
+user.dir=C:\Users\Samuel\Documents\GitHub\FundraiserProgram\ConnectToADatabase\dist
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
