@@ -20,4 +20,9 @@ Entries read from the database should be displayed in the JTextArea or JTable.
 
 Test and debug this final program.
 
-ConnectToADatabase\src to view the code
+To Run 
+
+Download and unzip ConnectToADatabase.zip
+
+Run the .jar file (ConnectToADatabase/dist/TestTeam.jar)
+
